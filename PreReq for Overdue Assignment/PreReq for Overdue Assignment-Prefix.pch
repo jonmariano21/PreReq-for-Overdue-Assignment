@@ -10,6 +10,11 @@
 #warning "This project uses features only available in iOS SDK 5.0 and later."
 #endif
 
+//DEFINES
+#define USER_NAME @"jonmariano21"
+#define USER_PASSWORD @"wordpass"
+
+
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
